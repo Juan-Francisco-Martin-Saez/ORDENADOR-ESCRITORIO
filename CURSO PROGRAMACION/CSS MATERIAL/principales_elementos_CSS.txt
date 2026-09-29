@@ -1,0 +1,94 @@
+
+principales-elementos-css.txt
+Página
+1
+/
+1
+100 %
+UNIDADES DE MEDIDA
+
+px
+%
+rem / em
+vh / vw
+
+PROPIEDADES PARA POSICIONAR
+
+min-width
+max-width
+width
+height
+min-height
+max-height
+max-content
+
+margin
+padding
+
+align-items
+display: flex
+flex-direction
+justify-content
+gap
+
+display: grid
+grid-template-columns: repeat(3, 1fr)
+
+position (fixed, absolute, relative, sticky)
+left / right / top / bottom
+z-index
+
+PROPIEDADES PARA DAR ESTILO
+
+background-color
+border
+border-radius
+box-shadow
+
+PROPIEDADES PARA ESCONDER 
+
+backface-visibility
+opacity
+overflow
+
+PROPIEDADES PARA TEXTO
+
+color
+font-family
+font-size
+font-weight
+line-height
+text-align
+text-decoration
+text-shadow
+text-transform
+
+PROPIEDADES PARA BOTONES
+
+all: unset
+cursor
+
+PROPIEDADES PARA IMÁGENES / VIDEOS
+
+object-fit
+
+PROPIEDADES PARA SVG
+
+fill
+
+PROPIEDADES PARA AÑADIR CONTENIDO EXTRA
+
+content
+
+PROPIEDADES PARA ANIMACIONES
+
+transition
+transform
+
+PROPIEDADES PARA EVITAR COMPORTAMIENTOS INDESEADOS
+
+box-sizing
+list-style
+user-select
+outline
+outline-offset

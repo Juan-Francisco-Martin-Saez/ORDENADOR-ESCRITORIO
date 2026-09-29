@@ -1,0 +1,67 @@
+PRINCIPALES
+
+html, head, body
+
+HEADERS
+
+link, meta, script
+
+SECCIONES
+
+header, main, footer, aside, nav, section
+
+CONTENEDORES
+
+div
+
+TÍTULOS
+
+h1, h2, h3, h4, h5, h6 
+
+PÁRRAFOS
+
+p,  br
+
+TEXTO LIBRE (NI TÍTULO NI PARRAFO)
+
+span
+
+ENLACES
+
+a
+
+LISTAS
+
+ul, li
+
+TABLAS
+
+table, thead, tbody, th, tr, td
+
+FORMULARIO
+
+label, input, textarea, select, option
+
+BOTONES
+
+button
+
+IMAGENES
+
+picture, img, svg
+
+VIDEO
+
+video
+
+AUDIO
+
+audio
+
+DESPLEGABLES
+
+details, summary
+
+
+
+
